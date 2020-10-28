@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirstHomework</string>
+    <string name="first_activity">First Activity</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="second_activity">Second Activity</string>
+    <string name="third_activity">Third Activity</string>
+</resources>
